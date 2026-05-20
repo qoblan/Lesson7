@@ -12,8 +12,8 @@ class RegState(StatesGroup):
     adress = State()
 
 
-admin_id=5955492506
-api = ''
+admin_id=7843877097
+api = '8666999967:AAGrc1tGQSI1jlEAw_7iIkmjXFa5NSaABtk'
 bot = Bot(api)
 dp=Dispatcher()
 
